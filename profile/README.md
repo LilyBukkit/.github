@@ -5,6 +5,7 @@ The LilyBukkit project aims to provide an improved [AlphaVer](https://alphaver.f
 ### Our projects
 - [**LilyBukkit-API**](https://github.com/LilyBukkit/LilyBukkit-API) - a mod API for Minecraft Alpha 1.0.16.05_13 Lilypad QA, fork of Bukkit API.
 - [**LilyBukkit-Core**](https://github.com/LilyBukkit/LilyBukkit-Core) - a server core for Minecraft Alpha 1.0.16.05_13 Lilypad QA, based on [RosepadMC](https://rosepadmc.github.io)'s server.
+- [**LilyBukkit-Preview2**](https://github.com/LilyBukkit/LilyBukkit-Preview2) - a **LilyBukkit-Core** backport to Alpha 1.0.16.05 Unr.Preview2.
 
 <!--
 
