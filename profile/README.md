@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-The LilyBukkit project aims to provide an improved [AlphaVer](https://alphaver.fandom.com/wiki/AlphaVer_Wiki) gaming experience, expanding the horizons of what is possible with the help of custom modifications, be it Bukkit plugins or RML mods.
+The LilyBukkit project aims to provide an improved [Extension 16.05](https://alphaver.fandom.com/wiki/AlphaVer_Wiki) gaming experience, expanding the horizons of what is possible with the help of custom modifications.
 
 ### Our projects
+#### Modifications
 - [**LilyBukkit-API**](https://github.com/LilyBukkit/LilyBukkit-API) - a mod API for Minecraft Alpha 16.05 branch, fork of Bukkit API.
 - [**LilyBukkit-QA**](https://github.com/LilyBukkit/LilyBukkit-Core) - a server core for Minecraft Alpha 1.0.16.05_13 Lilypad QA, based on [RosepadMC](https://rosepadmc.github.io)'s server.
-- [**LilyBukkit-Preview2**](https://github.com/LilyBukkit/LilyBukkit-Preview2) - a server core for Minecraft Alpha 1.0.16.05 Unr.Preview2.
+#### Utilities
+- [**Alphadax**](https://github.com/LilyBukkit/Alphadax) - a protocol parser library for Extension 16.05
 
 <!--
 
