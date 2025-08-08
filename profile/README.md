@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The LilyBukkit project aims to provide an improved [Extension 16.05](https://alphaver.fandom.com/wiki/AlphaVer_Wiki) gaming experience, expanding the horizons of what is possible with the help of custom modifications.
+The LilyBukkit project aims to provide an improved [Extension 16.05](https://alphaver.miraheze.org/wiki/AlphaVer_Wiki) gaming experience, expanding the horizons of what is possible with the help of custom modifications.
 
 ### Our projects
 #### Modifications
